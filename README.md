@@ -14,7 +14,7 @@ A RESTful API for managing personal finances. This project allows users to track
 
 ## Features
 
-### 👤 User Management
+### User Management
 
 - Create, update, delete, and view users (Admin only)
 - Role-based permissions (Admin, Analyst, Viewer)
